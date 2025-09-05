@@ -1,0 +1,27 @@
+/* *{
+    margin: 0;
+    padding: 0;
+
+} */
+
+/* img{
+    float: right;
+    height: 300px;
+    width: 40   0px;
+
+}  */
+
+#img1{
+    float:right;
+    height: 150px;
+    width: 200px;
+    border: 1px solid black;
+} 
+
+#img2{
+    float: right;
+    height: 150px;
+    width: 200px;
+    clear: right;
+
+} 

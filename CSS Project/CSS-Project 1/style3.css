@@ -1,0 +1,114 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(191, 201, 209);
+}
+
+
+#navbar{
+    background-color: whitesmoke;
+    width: 95%;
+    margin-top: 2rem;
+}
+
+h1{
+    padding-top: 2rem;
+    padding-bottom: 1rem; 
+}
+
+#navlist{
+    padding: 1rem;
+    display: flex;
+    gap: 2rem;
+    list-style-type: none;
+    justify-content: center;
+    background-color: rgb(47, 101, 177);
+}
+
+.firstBlog{
+    background-color: lightgray; 
+    /* border: 1px solid black; */
+    width: 95%;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+
+.dogdisc{
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+#dogdisc{
+    padding-bottom: 1rem;
+    line-height: 1.5rem;
+}
+
+#dogimage{
+    width: 100%;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+}
+
+#imageofdog{
+    height: 20rem;
+    width: 30rem;
+}
+
+.dogskills{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem; 
+}
+
+#doggi{
+    padding-left: 4rem;
+}
+
+
+#secondlog{
+    background-color: lightgray; 
+    /* border: 1px solid black; */
+    width: 95%;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+
+#p1{
+    line-height: 2rem;
+}
+
+#ul{
+    margin-left: 3rem;
+}
+
+#ol2{
+    margin-left: 3rem;
+}
+
+#ol1{
+    padding: 1rem;
+}
+
+#paralast{
+    line-height: 4rem;
+}
+
+#footer{
+    width: 95%;
+    background-color: rgb(131, 124, 164);
+    padding: 1rem;
+    margin: 1rem;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
