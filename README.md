@@ -138,6 +138,6 @@ Web-Dev-Practice-Projects/
 
 ✨ With this repo, I practiced everything from basic HTML structure to responsive CSS layouts and DOM-based interactivity.
 
-## 📧 Contact:
+## 📧 Contact
 
 Created by Shahbaz Alam – feel free to connect!
