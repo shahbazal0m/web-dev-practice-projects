@@ -127,12 +127,14 @@ Web-Dev-Practice-Projects/
 ---
 
 ## 📌 How to Run  
+1. Clone this repository:
 ```
-1. Clone this repository:  
    git clone https://github.com/shahbazal0m/web-dev-practice-projects.git
+```
 2. Navigate into any project folder.
 3. Open the .html file in your browser.
-```
+
+---
 ✨ With this repo, I practiced everything from basic HTML structure to responsive CSS layouts and DOM-based interactivity.
 
 ---
